@@ -1,2 +1,2 @@
 # datasets
-Here are some datasets for link prediction: facebook, google plus, dblp.
+Here are some pre-processed datasets for link prediction: facebook, google plus, dblp.
